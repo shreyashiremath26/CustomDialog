@@ -53,6 +53,19 @@
         android:gravity="center"
         android:background="#ededed"/>
 
+    <Button
+        android:id="@+id/fifth"
+        android:layout_below="@+id/second"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Blue"
+        android:layout_marginTop="20dp"
+        android:textSize="18dp"
+        android:padding="10dp"
+        android:layout_centerHorizontal="true"
+        android:gravity="center"
+        android:background="#ededed"/>
+
 
    <!-- <TextView
         android:layout_width="wrap_content"
